@@ -14,9 +14,9 @@
     <br />
     <a href="https://ibimmigrant.com">View Demo</a>
     ·
-    <a href="https://github.com/RedNotSus/IB/issues">Report Bug</a>
+    <a href="https://github.com/jiayangc1/ib/issues">Report Bug</a>
     ·
-    <a href="https://github.com/RedNotSus/IB/issues">Request Feature</a>
+    <a href="https://github.com/jiayangc1/ib/issues">Request Feature</a>
   </p>
 </div>
 
@@ -71,7 +71,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RedNotSus/IB.git
+   git clone https://github.com/jiayangc1/ib.git
    ```
 2. Use caddy or any other server to serve the files
 
@@ -85,7 +85,7 @@ To get a local copy up and running follow these simple example steps.
 
 - [ ] Form built in
 
-See the [open issues](https://github.com/rednotsus/IB/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jiayangc1/ib/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,8 +108,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/rednotsus/IB/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=rednotsus/IB" alt="contrib.rocks image" />
+<a href="https://github.com/jiayangc1/ib/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jiayangc1/ib" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
